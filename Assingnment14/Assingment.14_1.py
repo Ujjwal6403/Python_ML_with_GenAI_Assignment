@@ -1,4 +1,6 @@
 #1>. Write a lambda function which accept one number and returns square of that number.
+
+
 add = lambda iNo : iNo * iNo
 
 def main():
