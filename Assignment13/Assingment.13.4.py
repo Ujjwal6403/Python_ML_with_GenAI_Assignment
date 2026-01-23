@@ -3,12 +3,14 @@
 
 def BinaryEquivalent(ivalue):
    R = 0
-   rev = 0
+   rev = []
    while(ivalue != 0):
       R = ivalue % 2 
-      print(R)
+      rev.append(R)
       ivalue = ivalue //2
       
+      rev.reverse()
+   print(rev)
      
     
 def main():

@@ -4,7 +4,7 @@
 #output : Vowel
 
 def Checkvowel(name):
-   
+   name = name.lower()
    if((name == 'a')|(name == 'e')|(name == 'i')|(name == 'o')|(name == 'u')):
       
       return True
