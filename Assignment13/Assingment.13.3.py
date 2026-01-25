@@ -6,15 +6,16 @@
 
 def CheckPerfect(ivalue):
    
-   i = 0
+   i = 1
+   Sum = 0
    while (i < ivalue/2):
-      
-      i = i + 1
-      
-   print("...",ivalue)
+      if((ivalue % i) == 0):
+         Sum = Sum + 1
+   
+      print("...",ivalue)
    # print("...sum",Sum)
    
-   if(i+i == ivalue):
+   if(Sum == ivalue):
       return True
    else:
       return False
@@ -33,3 +34,4 @@ def main():
   
 if __name__ == "__main__":
    main()
+
