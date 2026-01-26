@@ -3,11 +3,12 @@
 #input : 4     Output : 16
 #input : 6     Output : 64
 
-def PowerOfTwo(x):
-   power = 1
-   for i in range(1 ,x+1):
-      power= power * 2
-   return power
+# def PowerOfTwo(x):
+#    power = 1
+#    for i in range(1 ,x+1):
+#       power= power * 2
+#    return power
+PowerOfTwo = lambda x : x ** 2
 def main():
    No = int(input("Enter the number : "))
    
