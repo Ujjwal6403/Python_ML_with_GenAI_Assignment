@@ -23,17 +23,17 @@ def Add(X,Y):
    return X*Y
 
 def main():
-   # Size = int(input("Enter the size of  List : "))
+   Size = int(input("Enter the size of  List : "))
   
-   # Data = list()
-   # print("Enter the elements :")
+   Data = list()
+   print("Enter the elements :")
    
-   # for i in range(Size):
-   #    value = int(input())
-   #    Data.append(value)
-   # print(Data)
+   for i in range(Size):
+      value = int(input())
+      Data.append(value)
+   print(Data)
    
-   Data =  [4, 34, 36, 76, 68, 24, 89, 23, 86, 90, 45, 70]
+   # Data =  [4, 34, 36, 76, 68, 24, 89, 23, 86, 90, 45, 70]
    
    FData = list(filter(GreaterThanOrEqual,Data))
    print(" Data after filter is ",FData)
