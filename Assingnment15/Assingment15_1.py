@@ -1,4 +1,5 @@
 # 1> write a lambda function using map() which accepts a list of number and return a list of square of each number .
+
 Square = lambda x:x * x
  
 def main():
