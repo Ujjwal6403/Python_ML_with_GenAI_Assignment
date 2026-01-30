@@ -1,0 +1,1 @@
+MiniMum(Data)
