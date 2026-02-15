@@ -1,0 +1,3347 @@
+--------------------------------------------------
+---- Marvellous Platform Surveillance System -----
+Log created at : Sun Feb 15 11:44:31 2026
+--------------------------------------------------
+
+CPU Usage : 15.2 %
+--------------------------------------------------
+RAM Usage : 85.4 %
+--------------------------------------------------
+
+Disk Usage Report
+--------------------------------------------------
+C:\ -> 83.6 % used
+D:\ -> 50.9 % used
+--------------------------------------------------
+
+Network Usage Report
+Sent : 54.12 MB
+Recv : 612.63 MB
+--------------------------------------------------
+
+Process, Thread and Open Files Monitoring Report
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 0
+Name : System Idle Process
+Username : NT AUTHORITY\SYSTEM
+Status : running
+Start time : 1970-01-01 05:30:00
+CPU % : 602.10
+Memory % : 0.00
+Number of Threads : 24
+Open Files Count : 0
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 4
+Name : System
+Username : NT AUTHORITY\SYSTEM
+Status : running
+Start time : 1970-01-01 05:30:00
+CPU % : 9.00
+Memory % : 0.02
+Number of Threads : 314
+Open Files Count : 0
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 140
+Name : 
+Username : None
+Status : stopped
+Start time : 2026-02-12 05:13:29
+CPU % : 0.00
+Memory % : 0.40
+Number of Threads : 0
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 184
+Name : Registry
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:29
+CPU % : 0.00
+Memory % : 0.21
+Number of Threads : 4
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 580
+Name : csrss.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:35
+CPU % : 0.00
+Memory % : 0.01
+Number of Threads : 12
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 616
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:37
+CPU % : 0.00
+Memory % : 0.02
+Number of Threads : 5
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 656
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:37
+CPU % : 0.00
+Memory % : 0.06
+Number of Threads : 3
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 680
+Name : smss.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:32
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 2
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 928
+Name : conhost.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:41:19
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 5
+Open Files Count : 1
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 940
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:37
+CPU % : 0.00
+Memory % : 0.04
+Number of Threads : 7
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 1088
+Name : wininit.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:36
+CPU % : 0.00
+Memory % : 0.01
+Number of Threads : 2
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 1176
+Name : svchost.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 09:05:45
+CPU % : 0.00
+Memory % : 0.01
+Number of Threads : 3
+Open Files Count : 2
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 1180
+Name : msedgewebview2.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 09:05:53
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 19
+Open Files Count : 34
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 1220
+Name : services.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:36
+CPU % : 0.00
+Memory % : 0.08
+Number of Threads : 8
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 1244
+Name : LsaIso.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:36
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 1
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 1264
+Name : lsass.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:36
+CPU % : 2.20
+Memory % : 0.17
+Number of Threads : 12
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 1284
+Name : RtkAudUService64.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:55:20
+CPU % : 0.00
+Memory % : 0.02
+Number of Threads : 11
+Open Files Count : 1
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 1412
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:36
+CPU % : 1.10
+Memory % : 0.27
+Number of Threads : 13
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 1440
+Name : fontdrvhost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:36
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 5
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 1512
+Name : updater.exe
+Username : None
+Status : running
+Start time : 2026-02-15 11:44:22
+CPU % : 0.00
+Memory % : 0.16
+Number of Threads : 9
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 1560
+Name : WUDFHost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:37
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 7
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 1600
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:37
+CPU % : 1.50
+Memory % : 0.21
+Number of Threads : 10
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 1648
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:37
+CPU % : 0.00
+Memory % : 0.04
+Number of Threads : 5
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 1684
+Name : Code.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:12:08
+CPU % : 4.10
+Memory % : 1.39
+Number of Threads : 26
+Open Files Count : 29
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 1764
+Name : conhost.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:42:15
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 2
+Open Files Count : 1
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 1792
+Name : ShellHost.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 09:15:54
+CPU % : 0.00
+Memory % : 0.06
+Number of Threads : 6
+Open Files Count : 5
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 1796
+Name : Code.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:12:15
+CPU % : 1.70
+Memory % : 1.15
+Number of Threads : 12
+Open Files Count : 16
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 1840
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:37
+CPU % : 0.00
+Memory % : 0.01
+Number of Threads : 3
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 1852
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:19:18
+CPU % : 0.00
+Memory % : 0.01
+Number of Threads : 5
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 1856
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:37
+CPU % : 0.00
+Memory % : 0.03
+Number of Threads : 3
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 1864
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:37
+CPU % : 0.00
+Memory % : 0.02
+Number of Threads : 4
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 1892
+Name : msedgewebview2.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:57:05
+CPU % : 0.00
+Memory % : 0.06
+Number of Threads : 24
+Open Files Count : 4
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 1916
+Name : WindowsPackageManagerServer.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 09:10:28
+CPU % : 0.00
+Memory % : 0.05
+Number of Threads : 5
+Open Files Count : 11
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 1920
+Name : WUDFHost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:37
+CPU % : 0.40
+Memory % : 0.08
+Number of Threads : 16
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 2024
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:37
+CPU % : 0.00
+Memory % : 0.06
+Number of Threads : 10
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 2080
+Name : IntelCpHDCPSvc.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:37
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 3
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 2092
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:37
+CPU % : 0.00
+Memory % : 0.02
+Number of Threads : 9
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 2148
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:37
+CPU % : 0.00
+Memory % : 0.01
+Number of Threads : 6
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 2224
+Name : msedgewebview2.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:55:04
+CPU % : 0.00
+Memory % : 0.11
+Number of Threads : 21
+Open Files Count : 19
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 2228
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:37
+CPU % : 0.00
+Memory % : 0.05
+Number of Threads : 4
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 2240
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:37
+CPU % : 0.00
+Memory % : 0.12
+Number of Threads : 10
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 2252
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:37
+CPU % : 0.00
+Memory % : 0.15
+Number of Threads : 7
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 2300
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:14:16
+CPU % : 0.00
+Memory % : 0.08
+Number of Threads : 9
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 2388
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:37
+CPU % : 0.00
+Memory % : 0.01
+Number of Threads : 3
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 2472
+Name : brave.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 11:16:18
+CPU % : 0.00
+Memory % : 0.07
+Number of Threads : 10
+Open Files Count : 22
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 2500
+Name : AggregatorHost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:47
+CPU % : 0.00
+Memory % : 0.05
+Number of Threads : 1
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 2520
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:37
+CPU % : 0.00
+Memory % : 0.02
+Number of Threads : 4
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 2540
+Name : MemCompression
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:38
+CPU % : 0.00
+Memory % : 3.38
+Number of Threads : 70
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 2548
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:37
+CPU % : 0.00
+Memory % : 0.04
+Number of Threads : 8
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 2588
+Name : igfxCUIServiceN.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:37
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 2
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 2624
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:37
+CPU % : 0.00
+Memory % : 0.02
+Number of Threads : 3
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 2680
+Name : updater.exe
+Username : None
+Status : running
+Start time : 2026-02-15 11:44:22
+CPU % : 0.30
+Memory % : 0.22
+Number of Threads : 1
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 2784
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:37
+CPU % : 0.00
+Memory % : 0.07
+Number of Threads : 6
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 2812
+Name : msedgewebview2.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:56:37
+CPU % : 0.00
+Memory % : 0.10
+Number of Threads : 24
+Open Files Count : 5
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 2816
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:37
+CPU % : 0.00
+Memory % : 0.09
+Number of Threads : 8
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 2844
+Name : brave.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 11:16:18
+CPU % : 0.00
+Memory % : 0.01
+Number of Threads : 7
+Open Files Count : 2
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 2852
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:37
+CPU % : 0.00
+Memory % : 0.01
+Number of Threads : 6
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 2912
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:37
+CPU % : 1.20
+Memory % : 0.08
+Number of Threads : 5
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 2952
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:37
+CPU % : 0.00
+Memory % : 0.02
+Number of Threads : 4
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 2984
+Name : taskhostw.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 20:50:27
+CPU % : 0.00
+Memory % : 0.03
+Number of Threads : 4
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 2992
+Name : msedgewebview2.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:57:41
+CPU % : 0.00
+Memory % : 0.24
+Number of Threads : 20
+Open Files Count : 19
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 3020
+Name : msedgewebview2.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:55:02
+CPU % : 1.10
+Memory % : 0.34
+Number of Threads : 52
+Open Files Count : 105
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 3076
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:38
+CPU % : 0.00
+Memory % : 0.02
+Number of Threads : 4
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 3088
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:38
+CPU % : 0.00
+Memory % : 0.03
+Number of Threads : 7
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 3104
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:38
+CPU % : 1.90
+Memory % : 0.23
+Number of Threads : 4
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 3156
+Name : msedgewebview2.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:56:37
+CPU % : 0.00
+Memory % : 0.30
+Number of Threads : 54
+Open Files Count : 104
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 3160
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:38
+CPU % : 0.00
+Memory % : 0.11
+Number of Threads : 11
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 3332
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:38
+CPU % : 0.00
+Memory % : 0.10
+Number of Threads : 7
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 3412
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:38
+CPU % : 0.00
+Memory % : 0.02
+Number of Threads : 6
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 3552
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:38
+CPU % : 0.00
+Memory % : 0.02
+Number of Threads : 4
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 3576
+Name : msedgewebview2.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 09:06:27
+CPU % : 0.00
+Memory % : 0.04
+Number of Threads : 9
+Open Files Count : 6
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 3584
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 06:17:06
+CPU % : 0.00
+Memory % : 0.01
+Number of Threads : 4
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 3616
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:38
+CPU % : 0.00
+Memory % : 0.10
+Number of Threads : 14
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 3624
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:39
+CPU % : 0.00
+Memory % : 0.02
+Number of Threads : 6
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 3660
+Name : msedgewebview2.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:58:47
+CPU % : 0.00
+Memory % : 0.05
+Number of Threads : 22
+Open Files Count : 5
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 3672
+Name : AsusOptimization.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:38
+CPU % : 0.00
+Memory % : 0.01
+Number of Threads : 10
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 3680
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:38
+CPU % : 0.00
+Memory % : 0.02
+Number of Threads : 5
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 3692
+Name : chrome.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 11:42:14
+CPU % : 0.00
+Memory % : 0.38
+Number of Threads : 13
+Open Files Count : 9
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 3696
+Name : ms-teams.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:56:36
+CPU % : 0.00
+Memory % : 0.12
+Number of Threads : 45
+Open Files Count : 22
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 3788
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:16:00
+CPU % : 0.00
+Memory % : 0.03
+Number of Threads : 9
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 3796
+Name : spoolsv.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:38
+CPU % : 0.00
+Memory % : 0.01
+Number of Threads : 8
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 3836
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:38
+CPU % : 0.00
+Memory % : 0.01
+Number of Threads : 3
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 3960
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:38
+CPU % : 0.00
+Memory % : 0.10
+Number of Threads : 14
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 3996
+Name : ctfmon.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:55:06
+CPU % : 0.00
+Memory % : 0.13
+Number of Threads : 12
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 4036
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:38
+CPU % : 0.00
+Memory % : 0.03
+Number of Threads : 6
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 4068
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:38
+CPU % : 0.00
+Memory % : 0.02
+Number of Threads : 4
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 4076
+Name : Code.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:12:07
+CPU % : 5.20
+Memory % : 2.06
+Number of Threads : 20
+Open Files Count : 5
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 4108
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:38
+CPU % : 0.00
+Memory % : 0.02
+Number of Threads : 5
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 4156
+Name : Code.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:46:06
+CPU % : 0.00
+Memory % : 0.61
+Number of Threads : 19
+Open Files Count : 53
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 4196
+Name : NgcIso.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:38
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 1
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 4240
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:38
+CPU % : 0.00
+Memory % : 0.01
+Number of Threads : 2
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 4268
+Name : RtkAudUService64.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:38
+CPU % : 0.00
+Memory % : 0.02
+Number of Threads : 6
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 4276
+Name : AsusScreenXpertHostService.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:38
+CPU % : 0.00
+Memory % : 0.01
+Number of Threads : 3
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 4284
+Name : AsusAppService.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:38
+CPU % : 0.00
+Memory % : 0.01
+Number of Threads : 3
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 4300
+Name : AsusSoftwareManager.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:38
+CPU % : 0.00
+Memory % : 0.03
+Number of Threads : 10
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 4312
+Name : AsusPTPService.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:38
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 4
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 4328
+Name : AsusSwitch.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:38
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 7
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 4340
+Name : AsusSystemAnalysis.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:38
+CPU % : 0.00
+Memory % : 0.01
+Number of Threads : 7
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 4348
+Name : AsusSystemDiagnosis.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:38
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 2
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 4420
+Name : OfficeClickToRun.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:38
+CPU % : 0.00
+Memory % : 0.10
+Number of Threads : 20
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 4432
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:38
+CPU % : 0.00
+Memory % : 0.06
+Number of Threads : 6
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 4468
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:38
+CPU % : 0.00
+Memory % : 0.31
+Number of Threads : 14
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 4492
+Name : svchost.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:56:49
+CPU % : 0.00
+Memory % : 0.03
+Number of Threads : 4
+Open Files Count : 7
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 4496
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-15 11:05:10
+CPU % : 0.00
+Memory % : 0.02
+Number of Threads : 3
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 4528
+Name : DtsApo4Service.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:39
+CPU % : 0.00
+Memory % : 0.01
+Number of Threads : 4
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 4536
+Name : SearchIndexer.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:14:08
+CPU % : 0.20
+Memory % : 0.13
+Number of Threads : 10
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 4556
+Name : ELANFPService.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:39
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 2
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 4588
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:39
+CPU % : 0.00
+Memory % : 0.21
+Number of Threads : 18
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 4612
+Name : MainDaemon.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:39
+CPU % : 0.00
+Memory % : 0.07
+Number of Threads : 9
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 4624
+Name : esif_uf.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:39
+CPU % : 0.00
+Memory % : 0.02
+Number of Threads : 3
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 4656
+Name : MainService.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:39
+CPU % : 0.00
+Memory % : 0.16
+Number of Threads : 29
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 4752
+Name : OneApp.IGCC.WinService.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:39
+CPU % : 0.00
+Memory % : 0.06
+Number of Threads : 6
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 4856
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:39
+CPU % : 0.00
+Memory % : 0.04
+Number of Threads : 6
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 4876
+Name : msedgewebview2.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:56:45
+CPU % : 0.00
+Memory % : 0.04
+Number of Threads : 10
+Open Files Count : 7
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 4880
+Name : jhi_service.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:39
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 2
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 4896
+Name : msedgewebview2.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 09:05:59
+CPU % : 0.80
+Memory % : 3.91
+Number of Threads : 26
+Open Files Count : 35
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 4904
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:39
+CPU % : 0.00
+Memory % : 0.01
+Number of Threads : 6
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 4936
+Name : IntelAudioService.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:39
+CPU % : 0.00
+Memory % : 0.03
+Number of Threads : 5
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 4976
+Name : mongod.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:39
+CPU % : 1.60
+Memory % : 0.30
+Number of Threads : 44
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 4992
+Name : MpDefenderCoreService.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:39
+CPU % : 0.00
+Memory % : 0.14
+Number of Threads : 9
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 5004
+Name : RtkAudUService64.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:39
+CPU % : 0.00
+Memory % : 0.04
+Number of Threads : 34
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 5036
+Name : RstMwService.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:39
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 9
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 5048
+Name : RtkBtManServ.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:39
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 2
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 5104
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:39
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 3
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 5124
+Name : UltraViewer_Service.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:39
+CPU % : 0.00
+Memory % : 0.01
+Number of Threads : 9
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 5176
+Name : WMIRegistrationService.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:39
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 2
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 5188
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:39
+CPU % : 0.00
+Memory % : 0.02
+Number of Threads : 3
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 5216
+Name : MsMpEng.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:39
+CPU % : 1.80
+Memory % : 1.70
+Number of Threads : 41
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 5252
+Name : wslservice.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:39
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 3
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 5284
+Name : Widgets.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:55:00
+CPU % : 0.00
+Memory % : 0.46
+Number of Threads : 15
+Open Files Count : 19
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 5332
+Name : servicehost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:15:55
+CPU % : 5.70
+Memory % : 0.19
+Number of Threads : 96
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 5356
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:39
+CPU % : 6.60
+Memory % : 0.20
+Number of Threads : 13
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 5424
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:39
+CPU % : 0.00
+Memory % : 0.03
+Number of Threads : 8
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 5636
+Name : Code.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:46:15
+CPU % : 0.00
+Memory % : 0.03
+Number of Threads : 17
+Open Files Count : 22
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 6248
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:40
+CPU % : 0.00
+Memory % : 0.02
+Number of Threads : 3
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 6300
+Name : ONENOTEM.EXE
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:59:39
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 2
+Open Files Count : 2
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 6580
+Name : msedgewebview2.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:57:35
+CPU % : 0.00
+Memory % : 0.56
+Number of Threads : 21
+Open Files Count : 22
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 6952
+Name : AsusOptimizationStartupTask.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:54:48
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 7
+Open Files Count : 3
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 6964
+Name : WmiPrvSE.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:40
+CPU % : 0.00
+Memory % : 0.02
+Number of Threads : 4
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 7008
+Name : WmiPrvSE.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:40
+CPU % : 9.50
+Memory % : 0.17
+Number of Threads : 9
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 7108
+Name : svchost.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:54:49
+CPU % : 0.00
+Memory % : 0.16
+Number of Threads : 6
+Open Files Count : 8
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 7160
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:14:07
+CPU % : 0.00
+Memory % : 0.02
+Number of Threads : 8
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 7240
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:46
+CPU % : 8.00
+Memory % : 0.20
+Number of Threads : 9
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 7276
+Name : msedgewebview2.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:55:03
+CPU % : 0.00
+Memory % : 0.01
+Number of Threads : 7
+Open Files Count : 1
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 7408
+Name : NisSrv.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:53
+CPU % : 0.00
+Memory % : 0.03
+Number of Threads : 4
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 7488
+Name : ms-teams.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:56:43
+CPU % : 0.00
+Memory % : 0.13
+Number of Threads : 68
+Open Files Count : 28
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 7508
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:15:55
+CPU % : 0.00
+Memory % : 0.02
+Number of Threads : 5
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 7556
+Name : msedgewebview2.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:57:41
+CPU % : 1.80
+Memory % : 0.99
+Number of Threads : 52
+Open Files Count : 140
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 7724
+Name : RuntimeBroker.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:40:51
+CPU % : 0.00
+Memory % : 0.02
+Number of Threads : 2
+Open Files Count : 0
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 7776
+Name : backgroundTaskHost.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 09:05:53
+CPU % : 0.00
+Memory % : 0.09
+Number of Threads : 7
+Open Files Count : 5
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 7860
+Name : python.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 11:41:59
+CPU % : 85.60
+Memory % : 0.27
+Number of Threads : 3
+Open Files Count : 2
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 8012
+Name : MainProtection.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:48
+CPU % : 0.10
+Memory % : 0.04
+Number of Threads : 26
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 8024
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:14:18
+CPU % : 0.00
+Memory % : 0.06
+Number of Threads : 10
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 8052
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:13:47
+CPU % : 0.00
+Memory % : 0.04
+Number of Threads : 5
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 8200
+Name : M365Copilot.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:58:46
+CPU % : 0.00
+Memory % : 0.22
+Number of Threads : 34
+Open Files Count : 19
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 8464
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-14 19:56:44
+CPU % : 0.00
+Memory % : 0.03
+Number of Threads : 4
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 8516
+Name : RuntimeBroker.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:58:46
+CPU % : 0.00
+Memory % : 0.02
+Number of Threads : 3
+Open Files Count : 0
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 8536
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:14:21
+CPU % : 0.00
+Memory % : 0.08
+Number of Threads : 12
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 8544
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:14:17
+CPU % : 0.00
+Memory % : 0.23
+Number of Threads : 8
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 8580
+Name : chrome.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:07:03
+CPU % : 0.00
+Memory % : 0.07
+Number of Threads : 11
+Open Files Count : 9
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 8584
+Name : cmd.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:12:15
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 1
+Open Files Count : 1
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 8624
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:14:17
+CPU % : 0.00
+Memory % : 0.02
+Number of Threads : 3
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 8692
+Name : chrome.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:06:56
+CPU % : 0.00
+Memory % : 2.41
+Number of Threads : 21
+Open Files Count : 60
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 8732
+Name : Code.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:12:07
+CPU % : 0.00
+Memory % : 0.02
+Number of Threads : 7
+Open Files Count : 2
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 8740
+Name : msedgewebview2.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:56:37
+CPU % : 0.00
+Memory % : 0.01
+Number of Threads : 7
+Open Files Count : 1
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 8832
+Name : msedgewebview2.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:57:05
+CPU % : 0.00
+Memory % : 0.01
+Number of Threads : 22
+Open Files Count : 19
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 9212
+Name : chrome.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:04:16
+CPU % : 0.00
+Memory % : 0.34
+Number of Threads : 20
+Open Files Count : 20
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 9328
+Name : Code.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:46:06
+CPU % : 0.10
+Memory % : 0.37
+Number of Threads : 24
+Open Files Count : 30
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 9368
+Name : chrome.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:07:03
+CPU % : 0.00
+Memory % : 0.05
+Number of Threads : 10
+Open Files Count : 7
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 9396
+Name : pet.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:46:14
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 1
+Open Files Count : 13
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 9432
+Name : chrome.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:04:15
+CPU % : 0.70
+Memory % : 0.98
+Number of Threads : 45
+Open Files Count : 167
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 9756
+Name : SecurityHealthService.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:14:49
+CPU % : 0.00
+Memory % : 0.03
+Number of Threads : 9
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 9936
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-13 11:09:22
+CPU % : 0.00
+Memory % : 0.01
+Number of Threads : 5
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 10088
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 06:16:26
+CPU % : 0.00
+Memory % : 0.01
+Number of Threads : 1
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 10120
+Name : cmd.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:41:19
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 1
+Open Files Count : 0
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 10272
+Name : chrome.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:04:16
+CPU % : 0.00
+Memory % : 0.12
+Number of Threads : 21
+Open Files Count : 3
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 10296
+Name : explorer.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:54:50
+CPU % : 0.80
+Memory % : 1.69
+Number of Threads : 95
+Open Files Count : 68
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 10300
+Name : chrome.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:04:16
+CPU % : 0.00
+Memory % : 0.07
+Number of Threads : 11
+Open Files Count : 24
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 10488
+Name : RuntimeBroker.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 09:06:06
+CPU % : 0.00
+Memory % : 0.03
+Number of Threads : 2
+Open Files Count : 2
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 10536
+Name : msedge.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:19:38
+CPU % : 0.00
+Memory % : 0.09
+Number of Threads : 16
+Open Files Count : 3
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 10776
+Name : BraveCrashHandler.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:14:24
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 3
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 10804
+Name : BraveCrashHandler64.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:14:24
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 3
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 10912
+Name : chrome.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:06:58
+CPU % : 0.00
+Memory % : 0.14
+Number of Threads : 19
+Open Files Count : 22
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 10924
+Name : FileCoAuth.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:56:22
+CPU % : 0.00
+Memory % : 0.11
+Number of Threads : 6
+Open Files Count : 8
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 11152
+Name : cmd.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:46:15
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 1
+Open Files Count : 1
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 11188
+Name : msedgewebview2.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:57:41
+CPU % : 0.00
+Memory % : 0.04
+Number of Threads : 10
+Open Files Count : 14
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 11304
+Name : Video.UI.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : stopped
+Start time : 2026-02-15 10:40:49
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 15
+Open Files Count : 10
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 11360
+Name : taskhostw.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:54:49
+CPU % : 0.00
+Memory % : 0.10
+Number of Threads : 8
+Open Files Count : 8
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 11368
+Name : cmd.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:06:56
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 1
+Open Files Count : 0
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 11640
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-15 09:05:10
+CPU % : 0.00
+Memory % : 0.07
+Number of Threads : 16
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 11660
+Name : Code.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:12:14
+CPU % : 0.10
+Memory % : 0.13
+Number of Threads : 29
+Open Files Count : 9
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 11992
+Name : msedgewebview2.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:56:37
+CPU % : 0.00
+Memory % : 0.22
+Number of Threads : 25
+Open Files Count : 21
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 11996
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-15 09:05:52
+CPU % : 0.00
+Memory % : 0.01
+Number of Threads : 3
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 12492
+Name : Grammarly.Desktop.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:57:11
+CPU % : 6.10
+Memory % : 2.06
+Number of Threads : 50
+Open Files Count : 172
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 12636
+Name : msedgewebview2.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:57:05
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 20
+Open Files Count : 37
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 12960
+Name : OneDrive.Sync.Service.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 09:11:14
+CPU % : 0.00
+Memory % : 0.13
+Number of Threads : 15
+Open Files Count : 20
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 13084
+Name : StartMenuExperienceHost.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:54:59
+CPU % : 0.00
+Memory % : 0.16
+Number of Threads : 15
+Open Files Count : 21
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 13472
+Name : WidgetService.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:57:03
+CPU % : 0.00
+Memory % : 0.03
+Number of Threads : 6
+Open Files Count : 10
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 13656
+Name : brave.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 11:23:07
+CPU % : 0.40
+Memory % : 3.45
+Number of Threads : 23
+Open Files Count : 24
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 13708
+Name : sihost.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:54:49
+CPU % : 0.00
+Memory % : 0.16
+Number of Threads : 12
+Open Files Count : 2
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 13756
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:14:53
+CPU % : 0.00
+Memory % : 0.01
+Number of Threads : 7
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 13892
+Name : conhost.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:12:15
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 5
+Open Files Count : 1
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 13924
+Name : Code.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:12:13
+CPU % : 0.00
+Memory % : 0.26
+Number of Threads : 12
+Open Files Count : 5
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 14080
+Name : msedgewebview2.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:57:41
+CPU % : 0.00
+Memory % : 0.02
+Number of Threads : 7
+Open Files Count : 1
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 14116
+Name : pet.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:12:13
+CPU % : 0.00
+Memory % : 0.02
+Number of Threads : 1
+Open Files Count : 2
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 14148
+Name : Code.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:46:06
+CPU % : 0.00
+Memory % : 0.14
+Number of Threads : 26
+Open Files Count : 8
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 14292
+Name : chrome.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:06:55
+CPU % : 0.00
+Memory % : 0.10
+Number of Threads : 20
+Open Files Count : 9
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 14696
+Name : winlogon.exe
+Username : None
+Status : running
+Start time : 2026-02-14 15:02:06
+CPU % : 0.00
+Memory % : 0.01
+Number of Threads : 3
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 14736
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-13 21:28:49
+CPU % : 0.00
+Memory % : 0.02
+Number of Threads : 2
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 14884
+Name : msedgewebview2.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:57:04
+CPU % : 0.10
+Memory % : 0.08
+Number of Threads : 54
+Open Files Count : 105
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 14992
+Name : Code.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:46:10
+CPU % : 0.00
+Memory % : 0.02
+Number of Threads : 12
+Open Files Count : 10
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 15044
+Name : unsecapp.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:15:04
+CPU % : 0.00
+Memory % : 0.04
+Number of Threads : 3
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 15048
+Name : fontdrvhost.exe
+Username : None
+Status : running
+Start time : 2026-02-14 15:02:06
+CPU % : 0.00
+Memory % : 0.01
+Number of Threads : 5
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 15060
+Name : msedgewebview2.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:57:34
+CPU % : 0.20
+Memory % : 0.62
+Number of Threads : 60
+Open Files Count : 90
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 15208
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:15:02
+CPU % : 0.00
+Memory % : 0.03
+Number of Threads : 4
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 15320
+Name : msedgewebview2.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:58:47
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 10
+Open Files Count : 13
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 15324
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-13 21:28:47
+CPU % : 0.00
+Memory % : 0.02
+Number of Threads : 3
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 15400
+Name : conhost.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 11:16:19
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 3
+Open Files Count : 4
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 15464
+Name : conhost.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:12:13
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 2
+Open Files Count : 1
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 15484
+Name : csrss.exe
+Username : None
+Status : running
+Start time : 2026-02-14 15:02:06
+CPU % : 1.10
+Memory % : 0.02
+Number of Threads : 15
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 15572
+Name : cmd.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 11:16:19
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 1
+Open Files Count : 0
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 15628
+Name : msedgewebview2.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:58:46
+CPU % : 0.00
+Memory % : 0.10
+Number of Threads : 50
+Open Files Count : 96
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 15800
+Name : TextInputHost.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:55:09
+CPU % : 0.00
+Memory % : 0.23
+Number of Threads : 20
+Open Files Count : 10
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 15864
+Name : svchost.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:55:00
+CPU % : 0.00
+Memory % : 0.05
+Number of Threads : 5
+Open Files Count : 11
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 15976
+Name : msedgewebview2.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:57:35
+CPU % : 0.00
+Memory % : 0.21
+Number of Threads : 20
+Open Files Count : 17
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 16324
+Name : igfxEMN.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:54:49
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 3
+Open Files Count : 2
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 16372
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 06:16:42
+CPU % : 0.00
+Memory % : 0.02
+Number of Threads : 4
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 16888
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-14 14:45:39
+CPU % : 0.00
+Memory % : 0.01
+Number of Threads : 1
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 16936
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:15:47
+CPU % : 0.10
+Memory % : 0.17
+Number of Threads : 12
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 16948
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:15:56
+CPU % : 0.00
+Memory % : 0.02
+Number of Threads : 9
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 16996
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:15:44
+CPU % : 0.00
+Memory % : 0.04
+Number of Threads : 2
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 17240
+Name : svchost.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 20:35:44
+CPU % : 0.00
+Memory % : 0.03
+Number of Threads : 3
+Open Files Count : 1
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 17308
+Name : msedgewebview2.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:57:04
+CPU % : 0.00
+Memory % : 0.01
+Number of Threads : 7
+Open Files Count : 1
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 17448
+Name : Code.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:46:14
+CPU % : 0.00
+Memory % : 0.06
+Number of Threads : 12
+Open Files Count : 16
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 17484
+Name : WhatsApp.Root.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:57:39
+CPU % : 0.40
+Memory % : 0.89
+Number of Threads : 38
+Open Files Count : 136
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 17576
+Name : msedgewebview2.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:57:35
+CPU % : 0.00
+Memory % : 0.18
+Number of Threads : 19
+Open Files Count : 5
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 17728
+Name : RuntimeBroker.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 20:07:55
+CPU % : 0.10
+Memory % : 0.11
+Number of Threads : 36
+Open Files Count : 4
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 17852
+Name : brave.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 11:16:18
+CPU % : 0.80
+Memory % : 1.27
+Number of Threads : 45
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 18152
+Name : msedgewebview2.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:55:04
+CPU % : 0.00
+Memory % : 0.07
+Number of Threads : 22
+Open Files Count : 40
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 18204
+Name : Code.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:12:08
+CPU % : 0.10
+Memory % : 0.28
+Number of Threads : 24
+Open Files Count : 7
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 18252
+Name : uihost.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:54:48
+CPU % : 0.10
+Memory % : 0.13
+Number of Threads : 64
+Open Files Count : 3
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 18380
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 05:15:59
+CPU % : 0.10
+Memory % : 0.21
+Number of Threads : 18
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 18388
+Name : Code.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:12:07
+CPU % : 0.30
+Memory % : 0.17
+Number of Threads : 19
+Open Files Count : 16
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 18668
+Name : LockApp.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : stopped
+Start time : 2026-02-14 20:07:55
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 16
+Open Files Count : 6
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 18936
+Name : msedge.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:19:38
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 7
+Open Files Count : 1
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 19056
+Name : msedge.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:48:19
+CPU % : 0.00
+Memory % : 0.05
+Number of Threads : 22
+Open Files Count : 33
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 19304
+Name : UserOOBEBroker.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 09:10:24
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 1
+Open Files Count : 0
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 19464
+Name : browserhost.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 11:16:19
+CPU % : 0.00
+Memory % : 0.03
+Number of Threads : 30
+Open Files Count : 0
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 19824
+Name : conhost.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:46:14
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 2
+Open Files Count : 1
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 20000
+Name : AsusSoftwareManagerAgent.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:59:33
+CPU % : 0.00
+Memory % : 0.06
+Number of Threads : 7
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 20020
+Name : AppActions.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 20:04:50
+CPU % : 0.00
+Memory % : 0.06
+Number of Threads : 7
+Open Files Count : 0
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 20096
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 06:16:27
+CPU % : 0.00
+Memory % : 0.02
+Number of Threads : 12
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 20184
+Name : OneDrive.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:56:21
+CPU % : 0.00
+Memory % : 0.21
+Number of Threads : 25
+Open Files Count : 37
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 20300
+Name : chrome.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:04:16
+CPU % : 0.00
+Memory % : 0.02
+Number of Threads : 7
+Open Files Count : 1
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 20424
+Name : WindowsTerminal.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:42:15
+CPU % : 0.00
+Memory % : 0.46
+Number of Threads : 11
+Open Files Count : 14
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 20488
+Name : brave.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 11:16:18
+CPU % : 0.00
+Memory % : 0.11
+Number of Threads : 19
+Open Files Count : 10
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 20828
+Name : conhost.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:46:14
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 5
+Open Files Count : 1
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 20864
+Name : AsusScreenXpertUI.exe
+Username : None
+Status : running
+Start time : 2026-02-14 19:54:49
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 3
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 21036
+Name : SDXHelper.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:10:41
+CPU % : 0.20
+Memory % : 0.09
+Number of Threads : 13
+Open Files Count : 12
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 21072
+Name : msedge.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:19:38
+CPU % : 0.40
+Memory % : 0.37
+Number of Threads : 56
+Open Files Count : 134
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 21116
+Name : msedge.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:19:39
+CPU % : 0.00
+Memory % : 0.03
+Number of Threads : 10
+Open Files Count : 19
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 21172
+Name : SearchHost.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:54:59
+CPU % : 0.00
+Memory % : 0.15
+Number of Threads : 13
+Open Files Count : 26
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 21216
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-12 13:32:38
+CPU % : 0.00
+Memory % : 0.02
+Number of Threads : 5
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 21420
+Name : SecurityHealthSystray.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:55:21
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 1
+Open Files Count : 1
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 21596
+Name : brave.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 11:16:18
+CPU % : 0.00
+Memory % : 1.26
+Number of Threads : 24
+Open Files Count : 4
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 21620
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-13 21:28:47
+CPU % : 0.00
+Memory % : 0.02
+Number of Threads : 4
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 21628
+Name : msedgewebview2.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:57:35
+CPU % : 0.00
+Memory % : 0.01
+Number of Threads : 7
+Open Files Count : 1
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 21880
+Name : msedgewebview2.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:57:41
+CPU % : 0.00
+Memory % : 0.80
+Number of Threads : 16
+Open Files Count : 2
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 21972
+Name : OpenConsole.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:42:15
+CPU % : 1.80
+Memory % : 0.02
+Number of Threads : 7
+Open Files Count : 4
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 22008
+Name : Code.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:12:06
+CPU % : 4.40
+Memory % : 1.10
+Number of Threads : 59
+Open Files Count : 75
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 22200
+Name : msedgewebview2.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:55:03
+CPU % : 0.00
+Memory % : 0.11
+Number of Threads : 23
+Open Files Count : 2
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 22260
+Name : backgroundTaskHost.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : stopped
+Start time : 2026-02-15 09:10:20
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 14
+Open Files Count : 5
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 22808
+Name : RuntimeBroker.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:56:37
+CPU % : 0.00
+Memory % : 0.02
+Number of Threads : 2
+Open Files Count : 0
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 23048
+Name : CrossDeviceResume.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:54:51
+CPU % : 0.00
+Memory % : 0.04
+Number of Threads : 6
+Open Files Count : 6
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 23136
+Name : cmd.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:42:15
+CPU % : 0.00
+Memory % : 0.03
+Number of Threads : 1
+Open Files Count : 1
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 23220
+Name : conhost.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:06:56
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 3
+Open Files Count : 4
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 23364
+Name : msedge.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:19:38
+CPU % : 0.00
+Memory % : 0.12
+Number of Threads : 22
+Open Files Count : 19
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 23584
+Name : msedgewebview2.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:55:04
+CPU % : 0.00
+Memory % : 0.03
+Number of Threads : 10
+Open Files Count : 21
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 23896
+Name : msedgewebview2.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:58:46
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 7
+Open Files Count : 1
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 23920
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-15 11:40:43
+CPU % : 0.00
+Memory % : 0.18
+Number of Threads : 5
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 24004
+Name : brave.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 11:28:10
+CPU % : 0.00
+Memory % : 0.13
+Number of Threads : 13
+Open Files Count : 10
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 24100
+Name : AsusOSD.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:55:50
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 3
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 24140
+Name : msedgewebview2.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:57:35
+CPU % : 0.00
+Memory % : 0.04
+Number of Threads : 9
+Open Files Count : 12
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 24228
+Name : msedgewebview2.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:56:37
+CPU % : 0.10
+Memory % : 0.09
+Number of Threads : 21
+Open Files Count : 19
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 24368
+Name : Code.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:12:08
+CPU % : 0.10
+Memory % : 0.26
+Number of Threads : 26
+Open Files Count : 8
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 24516
+Name : RuntimeBroker.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:55:00
+CPU % : 0.10
+Memory % : 0.14
+Number of Threads : 15
+Open Files Count : 10
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 24524
+Name : browserhost.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:06:56
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 30
+Open Files Count : 0
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 24532
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-15 11:31:18
+CPU % : 0.00
+Memory % : 0.09
+Number of Threads : 4
+Open Files Count : Access Denied
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 24544
+Name : svchost.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:54:49
+CPU % : 0.00
+Memory % : 0.01
+Number of Threads : 4
+Open Files Count : 1
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 24588
+Name : msedge.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:20:05
+CPU % : 0.00
+Memory % : 0.03
+Number of Threads : 15
+Open Files Count : 8
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 24596
+Name : Code.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:12:17
+CPU % : 0.10
+Memory % : 2.96
+Number of Threads : 17
+Open Files Count : 22
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 24680
+Name : FortectTray.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:55:51
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 2
+Open Files Count : 0
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 24688
+Name : MoNotificationUx.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 09:05:43
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 1
+Open Files Count : 1
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 24740
+Name : RuntimeBroker.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:57:40
+CPU % : 0.00
+Memory % : 0.02
+Number of Threads : 2
+Open Files Count : 0
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 24772
+Name : svchost.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:54:49
+CPU % : 0.00
+Memory % : 0.10
+Number of Threads : 8
+Open Files Count : 7
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 24932
+Name : msedgewebview2.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:57:05
+CPU % : 0.00
+Memory % : 0.00
+Number of Threads : 10
+Open Files Count : 16
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 25120
+Name : Code.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 10:12:07
+CPU % : 12.20
+Memory % : 3.70
+Number of Threads : 23
+Open Files Count : 55
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 25296
+Name : svchost.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:54:58
+CPU % : 0.00
+Memory % : 0.24
+Number of Threads : 10
+Open Files Count : 7
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 25328
+Name : brave.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-15 11:16:18
+CPU % : 0.00
+Memory % : 0.31
+Number of Threads : 19
+Open Files Count : 23
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 25332
+Name : msedgewebview2.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:56:37
+CPU % : 0.00
+Memory % : 0.03
+Number of Threads : 10
+Open Files Count : 15
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 25348
+Name : msedgewebview2.exe
+Username : LAPTOP-3OL71HUL\ujwal
+Status : running
+Start time : 2026-02-14 19:58:47
+CPU % : 0.00
+Memory % : 0.05
+Number of Threads : 21
+Open Files Count : 19
+--------------------------------------------------
+Timestamp : Sun Feb 15 11:45:04 2026
+PID : 25488
+Name : dwm.exe
+Username : None
+Status : running
+Start time : 2026-02-14 15:02:06
+CPU % : 2.10
+Memory % : 1.07
+Number of Threads : 18
+Open Files Count : Access Denied
+--------------------------------------------------
+----------------- End of Log File ----------------
+--------------------------------------------------
